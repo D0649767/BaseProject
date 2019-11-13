@@ -6,9 +6,10 @@ int main() {
     printf("Rule Breaker!!!\n");
     printf("5 + 2 = %d\n", addNumber(5, 2));
     printf("%d\n", getTriangleType(3, 4, 5));
+    printf("HEllo");
     return 0;
 }
-#endif // TEST0 
+#endif // TEST0
 
 int addNumber(int a, int b) {
     return a + b;
